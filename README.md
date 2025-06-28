@@ -9,7 +9,7 @@ Calculating customer lifetime value and visualising data in Power BI
 - Customer lifetime value and churn rate.
 
 ## 📈 Dashboard Screenshots
-![Sales Dashboard](Result.PNG)
+![Sales Dashboard](Result 2.PNG)
 
 ## 🛠️ Tools & Technologies Used
 - Power BI Desktop
